@@ -1,0 +1,3 @@
+# lit 0.0.2
+
+* The lit is not responsible for possible damages to land or unethical use of the tool.
